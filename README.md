@@ -1,4 +1,10 @@
-Mi primer readme
+Resultado de la clonacion de la seccion de testimonio de la pagina FreeCodeCamp.
+
+Se utilizo conceptos basicos de HTML, CSS y JavaScrip con la ayuda de React para replicar cada una de las caracteristicas de la pagina a clonar.
+
+![FreeCodeCamp Testimonio](https://github.com/williamsjdev/Clon-testimonio-freecodecamp/blob/main/imagen%20testimonio.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
